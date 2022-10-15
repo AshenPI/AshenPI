@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AshenPI
+- 👋 Hi, I’m Shadi
 - 👀 I’m interested in AI and web Development 
 
 <!---
