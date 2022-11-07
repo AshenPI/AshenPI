@@ -26,4 +26,4 @@ You can click the Preview link to take a look at your changes.
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AshenPI&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/AshenPI/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?AshenPI&layout=compact&theme=vision-friendly-dark)](https://github.com/AshenPI/github-readme-stats)
