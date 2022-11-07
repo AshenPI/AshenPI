@@ -24,4 +24,4 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?AshenPI
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AshenPI&theme=dark)](https://git.io/streak-stats)
